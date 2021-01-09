@@ -1,0 +1,29 @@
+h1{
+    color:maroon;
+    font-size: 30px;
+    text-align: center;
+    border: 15px outset maroon;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: green;
+    text-shadow: 2px 2px 5px blueviolet;  
+}
+.menu{
+    color: red;
+}
+#panjang{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+#pendek{
+    margin: 20px;
+    font-style: oblique;
+}
+body{
+    background-color:linen;
+}
